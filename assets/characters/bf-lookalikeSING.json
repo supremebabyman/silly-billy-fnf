@@ -1,0 +1,47 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-59,
+				448
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": "sing_BF_Fake idle0000",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-59,
+				448
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "sing",
+			"loop": false,
+			"name": "sing_BF_Fake idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/sing_BF_Fake",
+	"position": [
+		130,
+		280
+	],
+	"healthicon": "sillybilly",
+	"flip_x": false,
+	"healthbar_colors": [
+		104,
+		116,
+		169
+	],
+	"camera_position": [
+		-260,
+		-600
+	],
+	"sing_duration": 6.1,
+	"scale": 1.8,
+	"_editor_isPlayer": false
+}

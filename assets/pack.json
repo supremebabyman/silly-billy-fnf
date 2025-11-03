@@ -1,0 +1,7 @@
+{
+	"name": "Silly Billy",
+	"description": "A port which adds the Silly-Billy song from hit single (and some other stuff) to Psych Engine as it doesnt work normally when you try adding its mod folder\n\nLOOK IN CREDITS CUZ ITS COOL THERE",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [170, 0, 255],
+}

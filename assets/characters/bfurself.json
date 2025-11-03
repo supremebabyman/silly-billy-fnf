@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-63,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BFRight0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				65
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BFUp0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				83,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BFLeft0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BFIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-26,
+				-59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BFDown0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				70
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "BFUpALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				6
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "BFRightALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				107,
+				125
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "BFDownALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				0
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "BFLeftALT",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Yourself_BF_Assets",
+	"position": [
+		-20,
+		190
+	],
+	"healthicon": "bfsillybackwards",
+	"flip_x": true,
+	"healthbar_colors": [
+		152,
+		172,
+		220
+	],
+	"camera_position": [
+		200,
+		0
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 0.95,
+	"_editor_isPlayer": true
+}
