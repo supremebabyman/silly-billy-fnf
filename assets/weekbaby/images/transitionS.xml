@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="transition.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nmi instance 10000" x="0" y="0" width="783" height="794" frameX="-159" frameY="-34" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10001" x="883" y="0" width="784" height="794" frameX="-158" frameY="-34" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10002" x="883" y="0" width="784" height="794" frameX="-158" frameY="-34" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10003" x="883" y="0" width="784" height="794" frameX="-158" frameY="-34" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10004" x="1767" y="0" width="791" height="792" frameX="-155" frameY="-36" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10005" x="1767" y="0" width="791" height="792" frameX="-155" frameY="-36" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10006" x="1767" y="0" width="791" height="792" frameX="-155" frameY="-36" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10007" x="2658" y="0" width="792" height="792" frameX="-154" frameY="-36" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10008" x="3550" y="0" width="824" height="824" frameX="-148" frameY="-21" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10009" x="3550" y="0" width="824" height="824" frameX="-148" frameY="-21" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10010" x="4474" y="0" width="824" height="823" frameX="-148" frameY="-22" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10011" x="5398" y="0" width="824" height="823" frameX="-148" frameY="-22" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10012" x="6322" y="0" width="846" height="809" frameX="-137" frameY="-36" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10013" x="7268" y="0" width="846" height="809" frameX="-137" frameY="-36" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10014" x="7268" y="0" width="846" height="809" frameX="-137" frameY="-36" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10015" x="0" y="924" width="846" height="809" frameX="-137" frameY="-36" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10016" x="946" y="924" width="856" height="806" frameX="-132" frameY="-39" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10017" x="946" y="924" width="856" height="806" frameX="-132" frameY="-39" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10018" x="1902" y="924" width="856" height="807" frameX="-132" frameY="-38" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10019" x="2858" y="924" width="856" height="807" frameX="-132" frameY="-38" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10020" x="3814" y="924" width="856" height="806" frameX="-132" frameY="-39" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10021" x="4770" y="924" width="862" height="805" frameX="-129" frameY="-40" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10022" x="4770" y="924" width="862" height="805" frameX="-129" frameY="-40" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10023" x="5732" y="924" width="862" height="805" frameX="-129" frameY="-40" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10024" x="5732" y="924" width="862" height="805" frameX="-129" frameY="-40" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10025" x="6694" y="924" width="862" height="805" frameX="-129" frameY="-40" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10026" x="4770" y="924" width="862" height="805" frameX="-129" frameY="-40" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10027" x="0" y="1833" width="862" height="805" frameX="-129" frameY="-40" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10028" x="0" y="1833" width="862" height="805" frameX="-129" frameY="-40" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10029" x="6694" y="924" width="862" height="805" frameX="-129" frameY="-40" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10030" x="962" y="1833" width="965" height="913" frameX="-90" frameY="-51" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10031" x="962" y="1833" width="965" height="913" frameX="-90" frameY="-51" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10032" x="962" y="1833" width="965" height="913" frameX="-90" frameY="-51" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10033" x="962" y="1833" width="965" height="913" frameX="-90" frameY="-51" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10034" x="2027" y="1833" width="1066" height="900" frameX="-58" frameY="-66" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10035" x="2027" y="1833" width="1066" height="900" frameX="-58" frameY="-66" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10036" x="2027" y="1833" width="1066" height="900" frameX="-58" frameY="-66" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10037" x="2027" y="1833" width="1066" height="900" frameX="-58" frameY="-66" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10038" x="3193" y="1833" width="1152" height="954" frameX="-19" frameY="-39" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10039" x="3193" y="1833" width="1152" height="954" frameX="-19" frameY="-39" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10040" x="4445" y="1833" width="1153" height="954" frameX="-19" frameY="-39" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10041" x="3193" y="1833" width="1152" height="954" frameX="-19" frameY="-39" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10042" x="5698" y="1833" width="1225" height="1013" frameX="-3" frameY="-7" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10043" x="0" y="2946" width="1222" height="1012" frameX="-3" frameY="-7" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10044" x="0" y="2946" width="1222" height="1012" frameX="-3" frameY="-7" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10045" x="0" y="2946" width="1222" height="1012" frameX="-3" frameY="-7" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10046" x="1322" y="2946" width="1242" height="1024" frameX="0" frameY="0" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10047" x="1322" y="2946" width="1242" height="1024" frameX="0" frameY="0" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10048" x="2664" y="2946" width="1245" height="1025" frameX="0" frameY="0" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10049" x="2664" y="2946" width="1245" height="1025" frameX="0" frameY="0" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10050" x="4009" y="2946" width="1247" height="1025"/>
+	<SubTexture name="nmi instance 10051" x="5356" y="2946" width="1247" height="1025"/>
+	<SubTexture name="nmi instance 10052" x="6703" y="2946" width="1243" height="1024" frameX="0" frameY="0" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10053" x="6703" y="2946" width="1243" height="1024" frameX="0" frameY="0" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10054" x="6703" y="2946" width="1243" height="1024" frameX="0" frameY="0" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10055" x="6703" y="2946" width="1243" height="1024" frameX="0" frameY="0" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10056" x="5356" y="2946" width="1247" height="1025"/>
+	<SubTexture name="nmi instance 10057" x="5356" y="2946" width="1247" height="1025"/>
+	<SubTexture name="nmi instance 10058" x="4009" y="2946" width="1247" height="1025"/>
+	<SubTexture name="nmi instance 10059" x="5356" y="2946" width="1247" height="1025"/>
+	<SubTexture name="nmi instance 10060" x="6703" y="2946" width="1243" height="1024" frameX="0" frameY="0" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10061" x="6703" y="2946" width="1243" height="1024" frameX="0" frameY="0" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10062" x="6703" y="2946" width="1243" height="1024" frameX="0" frameY="0" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10063" x="6703" y="2946" width="1243" height="1024" frameX="0" frameY="0" frameWidth="1247" frameHeight="1025"/>
+	<SubTexture name="nmi instance 10064" x="5356" y="2946" width="1247" height="1025"/>
+</TextureAtlas>
